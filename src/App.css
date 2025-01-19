@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-color: rgba(0,68,245,0.8);
+
+}
+
+h1 {
+  font-family: UniSans,Arial,sans-serif;
+  color: white;
+}
